@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ios_blue">#FF14213D</color>
+    <color name="ios_blue_dark">#FF0B1224</color>
+    <color name="ios_teal">#FF059669</color>
+    <color name="glass_bg">#FFE7E3DC</color>
+    <color name="glass_surface">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

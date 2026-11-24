@@ -1,0 +1,14 @@
+package hhuezo.finanzas
+
+import android.os.Bundle
+import androidx.activity.enableEdgeToEdge
+import androidx.fragment.app.FragmentActivity
+
+/** Host de navegación. La protección por huella se gestiona dentro de la app. */
+class MainActivity : FragmentActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        enableEdgeToEdge()
+        setContentView(R.layout.activity_main)
+    }
+}
